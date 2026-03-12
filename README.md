@@ -58,7 +58,7 @@ Todas as atividades seguem um layout padronizado para facilitar o estudo:
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/EsmeraldoCarneiro/Exercicios-04_JS_JSX_HTML_React.git
 
 ```
 
